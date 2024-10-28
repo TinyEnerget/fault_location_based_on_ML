@@ -1,7 +1,7 @@
 {
     "exp_name": "pictures",
     "ml_model_type": [
-        "all_est"
+        "forest"
     ],
     "use_relative_units": 0,
     "feature": [

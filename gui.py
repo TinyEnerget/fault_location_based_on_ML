@@ -501,7 +501,7 @@ class GUI(ctk.CTk):
 
                 "aim_methods_path": "aim methods\\"
             }
-            adress = "C:\\Users\\Vlad Titov\\Desktop\\Work\\fault_location_machine_learning\\config\\"
+            adress = "config\\"
             filename= "config"        
             with open(adress + filename + '.json', 'w') as f:
                 json.dump(config, f, indent=4)
